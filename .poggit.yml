@@ -1,8 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/FlyPhoenix53/UIPlugin
-build-by-default: true
-branches:
-- main
-projects:
-  TestPlugin:
-    path: TestPlugin/
-...
